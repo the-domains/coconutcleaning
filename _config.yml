@@ -1,0 +1,28 @@
+name: coconutcleaning
+favicon: null
+layout_spectrum: 0.6196277535054833
+typography_spectrum: 0.2101169431116432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5772243847604841
+  lightness: 0.40727505809627473
+  saturation: 0.24839325807988644
+  rhythmicContrast: 0.8082299726083875
+purpose: []
